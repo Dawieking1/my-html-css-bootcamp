@@ -1,0 +1,33 @@
+html {
+    background-color: royalblue;
+}
+
+body {
+    background-color: limegreen;
+    border: 5px solid black;
+    width: 700px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+img {
+    border-radius: 100%;
+    border: 20px groove gold;
+    display: block;
+    margin: 20px auto;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: 400;
+    color: blue;
+}
+
+p ~ h1 {
+    color: red;
+}
+
+p, h1 {
+    padding: 10px 0;
+}
