@@ -1,0 +1,31 @@
+html {
+    font-family: 'Proza Libre', sans-serif;
+    background-color: lightcyan;
+}
+
+body {
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 1rem;
+    border: 1px solid darkcyan;
+}
+h1 {
+    font-weight: 800;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h4 {
+    font-weight: 600;
+    text-indent: 1em;
+}
+
+p {
+    font-weight: 400;
+}
+
+.importantInfo {
+    text-transform: uppercase;
+    font-style: italic;
+    color: seagreen;
+}

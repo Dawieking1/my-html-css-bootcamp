@@ -1,0 +1,22 @@
+html {
+    font-family: 'Proza Libre', sans-serif;
+}
+
+body {
+    max-width: 50rem;
+    margin: 0 auto;
+}
+h1 {
+    font-weight: 800;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h4 {
+    font-weight: 600;
+    text-indent: 1em;
+}
+
+p {
+    font-weight: 400;
+}

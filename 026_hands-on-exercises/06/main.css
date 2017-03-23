@@ -1,0 +1,9 @@
+html {
+    font-family: serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-shadow: 3px 3px 5px grey;
+    text-align: center;
+}
